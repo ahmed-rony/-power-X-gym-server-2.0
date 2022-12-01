@@ -44,5 +44,5 @@ client.connect(err => {
 });
 
 // sevrer web address
-// https://power-x-gym-node.herokuapp.com/
+
 app.listen(process.env.PORT || port );
